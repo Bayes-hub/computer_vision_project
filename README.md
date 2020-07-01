@@ -1,0 +1,2 @@
+# computer_vision_project
+华中科技大学人工智能与自动化学院计算机视觉课程设计：基于SIFT和KCF的运动目标匹配与跟踪
